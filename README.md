@@ -1,12 +1,12 @@
-\# 5-Axis Robotic Arm
+# 5-Axis Robotic Arm
 
 
 
-\## Overview
+## Overview
 
 
 
-This project presents the design of a \*\*5-axis robotic arm\*\*, developed as part of the \*\*Computer-Aided Technical Drawing\*\* course at \*\*Bursa Technical University\*\*, Department of Mechatronics Engineering.
+This project presents the design of a **5-axis robotic arm**, developed as part of the **Computer-Aided Technical Drawing** course at **Bursa Technical University**, Department of Mechatronics Engineering.
 
 
 
@@ -18,21 +18,21 @@ The project focuses on applying computer-aided design (CAD) principles to create
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
-\- Design a robotic arm with five axes of movement.
+- Design a robotic arm with five axes of movement.
 
-\- Apply CAD techniques to model mechanical components.
+- Apply CAD techniques to model mechanical components.
 
-\- Understand the mechanical structure and joint configurations of robotic manipulators.
+- Understand the mechanical structure and joint configurations of robotic manipulators.
 
-\- Develop practical skills in 3D mechanical design and assembly.
+- Develop practical skills in 3D mechanical design and assembly.
 
 
 
-\## Project Status
+## Project Status
 
 
 
